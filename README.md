@@ -1,1 +1,2 @@
 # snn_transformer
+用于snn_transformer代码管理
